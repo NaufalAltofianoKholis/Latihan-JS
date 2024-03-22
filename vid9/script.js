@@ -4,6 +4,10 @@ function coba() {
     console.log("javascript itu mudah");
 }
 
+// for (let i = 0; i < 4; i++) {
+//     coba();
+    
+// }
 function persegi(panjang, lebar) {
     luas= panjang * lebar;
     console.log(luas);
@@ -28,4 +32,4 @@ function lewat(a) {
 
 // console.log(tabung);
 
-console.log(lewat(10));
+console.log(lingkaran(10));
